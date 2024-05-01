@@ -1,7 +1,5 @@
 ![Summarize Article](./src/assets/image1.png "Summarize Article")
 
-### Live Demo
-https://645112bfa66ff207a63f95b7--super-sunflower-d47ed5.netlify.app/
 
 # Article Summarizer
 This is a React-based web application that uses GPT AI (Generative Pre-trained Transformer) to summarize articles. The application is designed to make the process of summarizing content quick, easy, and accurate.
